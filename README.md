@@ -1,1 +1,1 @@
-# Text-Mining---Amazon-Beauty-Reviews
+# Text-Mining-Amazon-Beauty-Reviews
