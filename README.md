@@ -46,3 +46,7 @@ For Topic Modelling:
 Both NMF with tf and tfidf were about the same and performed quite well.
 LDA with tf was the best. It had a lot of meaningful and unquie associations
 LDA with tfidf primarily consisted of unassociated words. However - it did accuractely asscoiate a brand with product --> remington for hair styling
+
+## References:
+1.J. McAuley and J. Leskovec. Hidden factors and hidden topics: understanding rating dimensions with review text. RecSys, 2013.
+2.http://jmcauley.ucsd.edu/data/amazon/
